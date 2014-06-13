@@ -1,0 +1,4 @@
+Voting
+======
+
+Generic Voting System
